@@ -2053,10 +2053,10 @@ ul.icons {
   #banner.small {
     height: 30vh !important;
     min-height: 30vh; }
-  @media screen and (max-width: 370px) {
+  @media screen and (max-width: 1280px) {
     #banner video {
       display: none; } }
-  @media screen and (max-width: 370px) {
+  @media screen and (max-width: 736px) {
     #banner {
       height: auto !important;
       min-height: 0;
@@ -2229,7 +2229,7 @@ ul.icons {
   #cta .inner {
     position: relative;
     z-index: 3; }
-  @media screen and (max-width: 300px) {
+  @media screen and (max-width: 500px) {
     #cta {
       background-attachment: scroll; } }
 
