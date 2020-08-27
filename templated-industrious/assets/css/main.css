@@ -2459,7 +2459,7 @@ body {
   z-index: 10001; }
   #header > .logo {
     color: #ffffff;
-    font-family: 'GrilledCheese BTN';
+    font-family: 'GrilledCheese BTN', Arial, Helvetica, sans-serif;
     font-size: 1rem;
     font-weight: 600;
     height: inherit;
