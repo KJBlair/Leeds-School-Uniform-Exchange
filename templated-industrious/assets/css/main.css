@@ -37,8 +37,8 @@ html {
 
 @font-face {
   font-family: 'GrilledCheese BTN';
-  src: url('GrilledCheeseBTN.woff2') format('woff2'),
-      url('GrilledCheeseBTN.woff') format('woff');
+  src: url('/assets/fonts/GrilledCheeseBTN.woff2') format('woff2'),
+      url('/assets/fonts/GrilledCheeseBTN.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
